@@ -1,0 +1,30 @@
+{
+    "templates": [
+        "QUxJVlYAAQAAHnkAAAAvAAABcQAAAaAAAAAuAAAB0gAAAAAAAAHWAAAAAAABAAAAAAABAAdMYXlvdXQ0AWIAAB0EqjL10AAAAABc1fDx/////rCYVS7/////d3CsvP////8AAAAAAAAAAB0GSm59nwAAAA+qMvXQAAAAAQO3l4QAAAAPXNXw8f////6Gh9C9AAAACndwrLz/////AAAAAAAAAAAJAx7HC8QAAAAgXNXw8QAAABZ3cKy8AAAAFgAAAAEAAb3keCiNqAAAAQAABwhcrLqNAAAAAkpufZ8AAAAGxC06zgAAABJc1fDx/////hdCd/sAAAABwX8chAAAAAF3cKy8/////sCbLjb/MzMzAAAAAQA2RS1I1sp5AAABAQAADwcAMzmjAAAAAaoy9dAAAAABXNXw8f////53VZwQAAAADPW/XDYAAAAPhofQvQAAAAp3cKy8/////wAAAAFWBT+QwAfYVAAAAQAADQVc1fDxAAAABQWnL2P/7u7uhofQvQAAAA93cKy8/////y9F0AgAAAAFAAAAAAAAAQEAAAADeCiNqAANcmVzXzdpY29uXzIzN8AH2FQACCR7aXRlbXN9SNbKeQAHJHt0ZXh0fQAAAAA="
+    ], 
+    "data": {
+        "items": [
+            {
+                "type": "Child_Layout4_Item", 
+                "imgUrl": "https://rmrbcmsonline.peopleapp.com/upload/image/202103/rmrb_64121615424628.png?x-oss-process=style/w7", 
+                "title": "\u76f8\u5bf9\u8bba\u91cc\u65f6\u95f4\u662f\u76f8\u5bf9\u7684\uff0c\u4f1a\u7834\u574f\u56e0\u679c\u5f8b\u4e48\uff1f"
+            }, 
+            {
+                "type": "Child_Layout4_Item", 
+                "imgUrl": "https://rmrbcmsonline.peopleapp.com/upload/image/202103/rmrb_57551615424649.png?x-oss-process=style/w7", 
+                "title": "\u5343\u7c73\u4e4b\u5916\uff0c\u5982\u4f55\u5b9e\u73b0\u9694\u5899\u89c2\u7269\uff1f"
+            }, 
+            {
+                "type": "Child_Layout4_Item", 
+                "imgUrl": "https://rmrbcmsonline.peopleapp.com/upload/image/202103/rmrb_79341615424666.png?x-oss-process=style/w7", 
+                "title": "\u4ec0\u4e48\u662f\u65af\u7279\u6069-\u76d6\u62c9\u8d6b\u5b9e\u9a8c\uff1f\u4e3a\u4f55\u8981\u4ece\u8fd9\u91cc\u8fdb\u5165\u91cf\u5b50\u4e16\u754c\uff1f"
+            }, 
+            {
+                "type": "Child_Layout4_Item", 
+                "imgUrl": "https://rmrbcmsonline.peopleapp.com/upload/image/202103/rmrb_85081615424684.png?x-oss-process=style/w7", 
+                "title": "\u4ece\u6df7\u6c8c\u5230\u81ea\u7531\u610f\u5fd7"
+            }
+        ], 
+        "text": "\u9ad8\u80fd\u7269\u7406 | \u89e3\u9501\u79d1\u5b66\u5965\u79d8"
+    }
+}

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<NVHLayout
+    layoutWidth="match_parent"
+    layoutHeight="wrap_content"
+    background="#FFFFFF"
+    orientation="V">
+
+     <NText
+        layoutWidth="wrap_content"
+        layoutHeight="wrap_content"
+        textSize="18"
+        textColor="#333333"
+        layoutMarginTop="10"
+        layoutMarginLeft="15"
+        layoutMarginRight="15"
+        maxLines="2"
+        ellipsize="end"
+        text="${text}" />
+
+    <NImage
+        layoutWidth="match_parent"
+        layoutHeight="100"
+        layoutMarginTop="4"
+        layoutMarginLeft="15"
+        layoutMarginRight="15"
+        src="${imgUrl}" />
+
+    <NVHLayout
+        layoutWidth="match_parent"
+        layoutHeight="wrap_content"
+        layoutMarginTop="5"
+        layoutMarginLeft="15"
+        layoutMarginRight="15"
+        orientation="H">
+
+         <NText
+            layoutWidth="wrap_content"
+            layoutHeight="wrap_content"
+            textSize="10"
+            textColor="#ff4259"
+            borderWidth="0.5"
+            borderColor="#ff4259"
+            borderRadius="2"
+            paddingLeft="3"
+            paddingRight="3"
+            layoutGravity="v_center"
+            text="活动" />
+
+        <NText
+            layoutWidth="wrap_content"
+            layoutHeight="wrap_content"
+            textSize="12"
+            textColor="#999999"
+            layoutMarginLeft="5"
+            layoutGravity="v_center"
+            text="人民号" />
+
+    </NVHLayout>
+
+    <NLine
+        layoutWidth="match_parent"
+        layoutHeight="5"
+        paintWidth="5"
+        layoutMarginTop="10"
+        color="#EEEEEE" />
+
+</NVHLayout>

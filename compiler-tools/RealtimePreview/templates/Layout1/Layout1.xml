@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<NVHLayout
+    layoutWidth="match_parent"
+    layoutHeight="wrap_content"
+    background="#FFFFFF"
+    orientation="V">
+
+    <NVH2Layout
+        layoutWidth="match_parent"
+        layoutHeight="85"
+        layoutMarginTop="10"
+        layoutMarginLeft="15"
+        layoutMarginRight="15"
+        orientation="H">
+
+        <NImage
+            layoutWidth="113"
+            layoutHeight="match_parent"
+            scaleType="center_crop"
+            layoutDirection="right"
+            src="${imageUrl}" />
+
+        <NVH2Layout
+            layoutWidth="match_parent"
+            layoutHeight="match_parent"
+            layoutMarginRight="10"
+            orientation="V">
+
+            <TagText
+                layoutWidth="wrap_content"
+                layoutHeight="wrap_content"
+                textSize="18"
+                textColor="#333333"
+                maxLines="2"
+                ellipsize="end"
+                tag="话题"
+                text="${text}" />
+
+            <NText
+                layoutWidth="wrap_content"
+                layoutHeight="wrap_content"
+                textSize="12"
+                textColor="#999999"
+                maxLines="1"
+                ellipsize="end"
+                layoutDirection="bottom"
+                text="人民日报客户端  28分钟前  101评论" />
+
+        </NVH2Layout>
+
+    </NVH2Layout>
+
+    <NLine
+        layoutWidth="match_parent"
+        layoutHeight="0.5"
+        paintWidth="0.5"
+        layoutMarginTop="15"
+        layoutMarginLeft="15"
+        layoutMarginRight="15"
+        color="#EEEEEE" />
+
+</NVHLayout>

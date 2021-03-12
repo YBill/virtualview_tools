@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<NVHLayout
+    layoutWidth="match_parent"
+    layoutHeight="wrap_content"
+    background="#FFFFFF"
+    orientation="V">
+
+    <NVHLayout
+        layoutWidth="match_parent"
+        layoutHeight="wrap_content"
+        layoutMarginTop="10"
+        layoutMarginLeft="15"
+        layoutMarginRight="15"
+        orientation="H">
+
+        <NImage
+            layoutWidth="22"
+            layoutHeight="22"
+            layoutGravity="v_center"
+            src="res_7icon_237" />
+
+        <NText
+            layoutWidth="wrap_content"
+            layoutHeight="wrap_content"
+            textSize="18"
+            textColor="#333333"
+            textStyle="bold"
+            maxLines="1"
+            ellipsize="end"
+            layoutMarginLeft="6"
+            text="${text}" />
+
+    </NVHLayout>
+   
+    <Scroller
+        layoutWidth="match_parent"
+        layoutHeight="wrap_content"
+        orientation="H"
+        mode="linear"
+        firstSpace="15"
+        lastSpace="12"
+        layoutMarginTop="10"
+        dataTag="${items}" />
+
+    <NLine
+        layoutWidth="match_parent"
+        layoutHeight="5"
+        paintWidth="5"
+        layoutMarginTop="15"
+        color="#EEEEEE" />
+
+</NVHLayout>

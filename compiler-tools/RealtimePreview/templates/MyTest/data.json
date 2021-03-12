@@ -1,0 +1,12 @@
+{
+    "templates": [
+        "QUxJVlYAAQAAHnkAAAAvAAAAvwAAAO4AAABPAAABQQAAAAAAAAFFAAAAAAABAAAAAAABAAZNeVRlc3QAsQAAAgSqMvXQAAAAAAAv/2wAAAAwXNXw8f////53cKy8/////wAAAAKwmFUuHK3r9qsvfjZ9kHRQAAAAAAoBHscLxAAAAAQDXNXw8QAAAEiGh9C9AAAAHndwrLwAAABIAAABAAG95BsbXfIAAAEAAAcDHscLxAAAAARc1fDx/////ndwrLz////+AoaH0L0AAAAKWEhxwwAAAB4AAAIANkUtSNbKecCbLjbxp70eAAABAQAAAAV9kHRQAAkke2FjdGlvbn0bG13yAAske2ltYWdlVXJsffGnvR4ADCR7dGV4dENvbG9yfRyt6/YACiR7YmdDb2xvcn1I1sp5AAcke3RleHR9AAAAAA=="
+    ], 
+    "data": {
+        "action": "Click VirtualView", 
+        "bgColor": "#CC99FF", 
+        "imageUrl": "https://gw.alicdn.com/tfs/TB1yGIdkb_I8KJjy1XaXXbsxpXa-72-72.png", 
+        "textColor": "#FFFFFF", 
+        "text": "VirtualView"
+    }
+}

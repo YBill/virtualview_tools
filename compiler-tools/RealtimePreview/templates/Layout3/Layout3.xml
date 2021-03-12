@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<NVHLayout
+    layoutWidth="match_parent"
+    layoutHeight="wrap_content"
+    background="#FFFFFF"
+    orientation="V">
+
+   <NText
+        layoutWidth="wrap_content"
+        layoutHeight="wrap_content"
+        textSize="18"
+        textColor="#333333"
+        maxLines="2"
+        ellipsize="end"
+        layoutMarginTop="10"
+        layoutMarginLeft="15"
+        layoutMarginRight="15"
+        text="${text}" />
+
+    <NRatioLayout
+        layoutWidth="match_parent"
+        layoutHeight="85"
+        layoutMarginTop="5"
+        layoutMarginLeft="15"
+        layoutMarginRight="15"
+        orientation="H" >
+
+        <ShapeImage
+            layoutWidth="match_parent"
+            layoutHeight="match_parent"
+            scaleType="center_crop"
+            layoutRatio="1"
+            shapeMode="round_rect"
+            roundRectRadiusLeftTop="3"
+            roundRectRadiusLeftBottom="3"
+            borderWidth="0.5"
+            borderColor="#1A000000"
+            src="${imageUrl[0]}" />
+
+        <ShapeImage
+            layoutWidth="match_parent"
+            layoutHeight="match_parent"
+            scaleType="center_crop"
+            layoutRatio="1"
+            shapeMode="none"
+            borderWidth="0.5"
+            borderColor="#1A000000"
+            layoutMarginLeft="3"
+            src="${imageUrl[1]}" />
+
+        <ShapeImage
+            layoutWidth="match_parent"
+            layoutHeight="match_parent"
+            scaleType="center_crop"
+            layoutRatio="1"
+            shapeMode="round_rect"
+            roundRectRadiusRightTop="3"
+            roundRectRadiusRightBottom="3"
+            borderWidth="0.5"
+            borderColor="#1A000000"
+            layoutMarginLeft="3"
+            src="${imageUrl[2]}" />
+
+     </NRatioLayout>
+
+    <NText
+        layoutWidth="wrap_content"
+        layoutHeight="wrap_content"
+        textSize="12"
+        textColor="#999999"
+        maxLines="1"
+        ellipsize="end"
+        layoutMarginTop="5"
+        layoutMarginLeft="15"
+        layoutMarginRight="15"
+        text="新华每日电讯  8小时前  235评论" />
+
+    <NLine
+        layoutWidth="match_parent"
+        layoutHeight="0.5"
+        paintWidth="0.5"
+        layoutMarginTop="15"
+        layoutMarginLeft="15"
+        layoutMarginRight="15"
+        color="#EEEEEE" />
+
+</NVHLayout>

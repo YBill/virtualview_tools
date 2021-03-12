@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<NVHLayout
+    layoutWidth="match_parent"
+    layoutHeight="wrap_content"
+    background="#FFFFFF"
+    orientation="V">
+
+   <NText
+        layoutWidth="wrap_content"
+        layoutHeight="wrap_content"
+        textSize="18"
+        textColor="#333333"
+        maxLines="2"
+        ellipsize="end"
+        layoutMarginTop="10"
+        layoutMarginLeft="15"
+        layoutMarginRight="15"
+        text="${text}" />
+
+    <NFrameLayout
+        layoutWidth="match_parent"
+        layoutHeight="wrap_content"
+        autoDimDirection="X"
+        autoDimX="16"
+        autoDimY="9"
+        layoutMarginTop="5"
+        layoutMarginLeft="15"
+        layoutMarginRight="15" >
+
+        <LocalAndNetImage
+            layoutWidth="match_parent"
+            layoutHeight="match_parent"
+            degree="180"
+            url="${imageUrl}" />
+
+        <NImage
+            layoutWidth="48"
+            layoutHeight="48"
+            layoutGravity="v_center|h_center"
+            src="res_7icon_002" />
+
+         <NText
+            layoutWidth="wrap_content"
+            layoutHeight="wrap_content"
+            textSize="14"
+            textColor="#ffffff"
+            textStyle="bold"
+            layoutMargin="10"
+            layoutGravity="right|bottom"
+            text="01:03" /> 
+
+    </NFrameLayout>
+
+    <NText
+        layoutWidth="wrap_content"
+        layoutHeight="wrap_content"
+        textSize="12"
+        textColor="#999999"
+        maxLines="1"
+        ellipsize="end"
+        layoutMarginTop="5"
+        layoutMarginLeft="15"
+        layoutMarginRight="15"
+        text="高原战士  5小时前  3评论" />
+
+    <NLine
+        layoutWidth="match_parent"
+        layoutHeight="0.5"
+        paintWidth="0.5"
+        layoutMarginTop="15"
+        layoutMarginLeft="15"
+        layoutMarginRight="15"
+        color="#EEEEEE" />
+
+</NVHLayout>

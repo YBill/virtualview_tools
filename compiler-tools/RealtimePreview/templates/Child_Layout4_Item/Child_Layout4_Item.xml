@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<NVHLayout
+    layoutWidth="170"
+    layoutHeight="wrap_content"
+    background="#FFFFFF"
+    orientation="H">
+
+    <NVHLayout
+        layoutWidth="167"
+        layoutHeight="wrap_content"
+        orientation="V">
+
+        <NImage
+            layoutWidth="match_parent"
+            layoutHeight="94"
+            src="${imgUrl}" />
+
+        <NText
+            layoutWidth="wrap_content"
+            layoutHeight="wrap_content"
+            textSize="14"
+            textColor="#333333"
+            layoutMarginTop="5"
+            layoutMarginRight="20"
+            lines="2"
+            ellipsize="end"
+            text="${title}" />
+
+    </NVHLayout>
+
+</NVHLayout>
