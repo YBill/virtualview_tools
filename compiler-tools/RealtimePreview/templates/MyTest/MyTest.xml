@@ -2,7 +2,7 @@
 <VHLayout
     action="${action}"
     background="${bgColor}"
-    flag="flag_exposure|flag_clickable"
+    flag="flag_exposure|flag_clickable|flag_longclickable|flag_touchable"
     layoutHeight="wrap_content"
     layoutWidth="match_parent"
     orientation="V">

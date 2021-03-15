@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<NVHLayout
+    layoutWidth="match_parent"
+    layoutHeight="wrap_content"
+    background="#FFFFFF"
+    orientation="V">
+
+    <RatioLayout
+        layoutWidth="match_parent"
+        layoutHeight="60"
+        layoutMarginTop="15"
+        orientation="H">
+
+        <NVHLayout
+            layoutWidth="wrap_content"
+            layoutHeight="wrap_content"
+            layoutRatio="1"
+            flag="flag_clickable"
+            action="${topItem[0].action}"
+            orientation="V">
+
+            <NImage
+                layoutWidth="35"
+                layoutHeight="35"
+                layoutGravity="h_center"
+                src="${topItem[0].icon}" />
+
+            <NText
+                layoutWidth="wrap_content"
+                layoutHeight="wrap_content"
+                textSize="12"
+                layoutMarginTop="5"
+                layoutGravity="h_center"
+                text="${topItem[0].text}" />
+
+        </NVHLayout>
+
+        <NVHLayout
+            layoutWidth="wrap_content"
+            layoutHeight="wrap_content"
+            layoutRatio="1"
+            flag="flag_clickable"
+            action="${topItem[1].action}"
+            orientation="V">
+
+            <NImage
+                layoutWidth="35"
+                layoutHeight="35"
+                layoutGravity="h_center"
+                src="${topItem[1].icon}" />
+
+            <NText
+                layoutWidth="wrap_content"
+                layoutHeight="wrap_content"
+                textSize="12"
+                layoutMarginTop="5"
+                layoutGravity="h_center"
+                text="${topItem[1].text}" />
+
+        </NVHLayout>
+        
+        <NVHLayout
+            layoutWidth="wrap_content"
+            layoutHeight="wrap_content"
+            layoutRatio="1"
+            flag="flag_clickable"
+            action="${topItem[2].action}"
+            orientation="V">
+
+            <NImage
+                layoutWidth="35"
+                layoutHeight="35"
+                layoutGravity="h_center"
+                src="${topItem[2].icon}" />
+
+            <NText
+                layoutWidth="wrap_content"
+                layoutHeight="wrap_content"
+                textSize="12"
+                layoutMarginTop="5"
+                layoutGravity="h_center"
+                text="${topItem[2].text}" />
+
+        </NVHLayout>
+
+        <NVHLayout
+            layoutWidth="wrap_content"
+            layoutHeight="wrap_content"
+            layoutRatio="1"
+            flag="flag_clickable"
+            action="${topItem[3].action}"
+            orientation="V">
+
+            <NImage
+                layoutWidth="35"
+                layoutHeight="35"
+                layoutGravity="h_center"
+                src="${topItem[3].icon}" />
+
+            <NText
+                layoutWidth="wrap_content"
+                layoutHeight="wrap_content"
+                textSize="12"
+                layoutMarginTop="5"
+                layoutGravity="h_center"
+                text="${topItem[3].text}" />
+
+        </NVHLayout>
+
+        <NVHLayout
+            layoutWidth="wrap_content"
+            layoutHeight="wrap_content"
+            layoutRatio="1"
+            flag="flag_clickable"
+            action="${topItem[4].action}"
+            orientation="V">
+
+            <NImage
+                layoutWidth="35"
+                layoutHeight="35"
+                layoutGravity="h_center"
+                src="${topItem[4].icon}" />
+
+            <NText
+                layoutWidth="wrap_content"
+                layoutHeight="wrap_content"
+                textSize="12"
+                layoutMarginTop="5"
+                layoutGravity="h_center"
+                text="${topItem[4].text}" />
+
+        </NVHLayout>
+
+    </RatioLayout>
+
+    <NVHLayout
+        layoutWidth="wrap_content"
+        layoutHeight="wrap_content"
+        layoutMarginTop="15"
+        layoutMarginLeft="15"
+        orientation="H">
+
+        <NText
+            layoutWidth="wrap_content"
+            layoutHeight="wrap_content"
+            textSize="16"
+            textColor="#ffffff"
+            textStyle="bold"
+            background="#ff0000"
+            paddingRight="2"
+            paddingLeft="2"
+            text="疫情" />
+        
+        <NText
+            layoutWidth="wrap_content"
+            layoutHeight="wrap_content"
+            textSize="16"
+            textColor="#000000"
+            text="要闻" />
+
+    </NVHLayout>
+
+    <NVH2Layout
+        layoutWidth="match_parent"
+        layoutHeight="wrap_content"
+        layoutMarginTop="15"
+        layoutMarginLeft="15"
+        layoutMarginRight="15"
+        flag="flag_clickable"
+        action="${news[0].action}"
+        id="123"
+        orientation="H">
+
+        <NImage
+            layoutWidth="20"
+            layoutHeight="20"
+            layoutGravity="v_center"
+            layoutDirection="right"
+            src="right_arrow" />
+
+        <NText
+            layoutWidth="wrap_content"
+            layoutHeight="wrap_content"
+            textSize="18"
+            textColor="#000000"
+            text="${news[0].text}" />
+
+    </NVH2Layout>
+
+    <NVH2Layout
+        layoutWidth="match_parent"
+        layoutHeight="wrap_content"
+        layoutMarginTop="10"
+        layoutMarginLeft="15"
+        layoutMarginRight="15"
+        flag="flag_clickable"
+        action="${news[1].action}"
+        orientation="H">
+
+        <NImage
+            layoutWidth="20"
+            layoutHeight="20"
+            layoutGravity="v_center"
+            layoutDirection="right"
+            src="right_arrow" />
+
+        <NText
+            layoutWidth="wrap_content"
+            layoutHeight="wrap_content"
+            textSize="18"
+            textColor="#000000"
+            text="${news[1].text}" />
+
+    </NVH2Layout>
+
+    <NVH2Layout
+        layoutWidth="match_parent"
+        layoutHeight="wrap_content"
+        layoutMarginTop="10"
+        layoutMarginLeft="15"
+        layoutMarginRight="15"
+        flag="flag_clickable"
+        action="${news[2].action}"
+        orientation="H">
+
+        <NImage
+            layoutWidth="20"
+            layoutHeight="20"
+            layoutGravity="v_center"
+            layoutDirection="right"
+            src="right_arrow" />
+
+            <NText
+            layoutWidth="wrap_content"
+            layoutHeight="wrap_content"
+            textSize="18"
+            textColor="#000000"
+            text="${news[2].text}" />
+
+    </NVH2Layout>
+
+    <NLine
+        layoutWidth="match_parent"
+        layoutHeight="0.5"
+        paintWidth="0.5"
+        layoutMarginTop="15"
+        color="#EEEEEE" />
+
+</NVHLayout>

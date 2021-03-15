@@ -1,0 +1,49 @@
+{
+  "topItem":[
+    {
+      "icon": "https://cms-bucket.ws.126.net/2021/0115/fd19f3eep00qmz9680007c0002x002xc.png",
+      "text": "海外疫情",
+      "action": "海外疫情"
+    },
+    {
+      "icon": "https://cms-bucket.ws.126.net/2021/0115/6a723af0p00qmz9h30002c0002x002xc.png",
+      "text": "最新进展",
+      "action": "最新进展"
+    },
+    {
+      "icon": "https://cms-bucket.ws.126.net/2020/0212/22458587p00q5klyb0002c0002x002xc.png",
+      "text": "北京疫情",
+      "action": "北京疫情"
+    },
+    {
+      "icon": "https://cms-bucket.ws.126.net/2020/0428/9eecd3d7p00q9hjzi0007c0002x002xc.png",
+      "text": "新冠疫苗",
+      "action": "新冠疫苗"
+    },
+    {
+      "icon": "https://cms-bucket.ws.126.net/2021/0115/8be454bep00qmz9fi0002c0002x002xc.png",
+      "text": "核酸检测",
+      "action": "核酸检测"
+    }
+  ],
+  "news":[
+    {
+      "text": "31省份昨日增确诊5例 均为境外输入",
+      "action": {
+        "url": "https://www.baidu.com"
+      }
+    },
+    {
+      "text": "单针接种新冠疫苗何时能打？答案来了",
+      "action": {
+        "url": "https://www.163.com/"
+      }
+    },
+    {
+      "text": "全球日增超37万例 美国日增近4万例",
+      "action": {
+        "url": "https://www.sina.com.cn/"
+      }
+    }
+  ]
+}

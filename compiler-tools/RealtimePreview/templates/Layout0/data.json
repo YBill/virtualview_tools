@@ -1,0 +1,54 @@
+{
+    "templates": [
+        "QUxJVlYAAQAAAQIAAAAvAAAGkQAABsAAAAIfAAAI4wAAAAAAAAjnAAAAAAABAAAAAAABAAdMYXlvdXQwBoIAAB0EqjL10AAAAABc1fDx/////rCYVS7/////d3CsvP////8AAAAAAAAAAAYEqjL10AAAAAFc1fDxAAAAPIaH0L0AAAAPd3CsvP////8AAAAAAAAAAB0FqjL10AAAAAAAL/9sAAAAIFzV8PH////+dybPAQAAAAF3cKy8/////gAAAAGrL342dLr28AAAAAAJAx7HC8QAAAAEXNXw8QAAACN3cKy8AAAAIwAAAAEAAb3kX2VnTQAAAQAABwXELTrOAAAADB7HC8QAAAAEXNXw8f////6Gh9C9AAAABXdwrLz////+AAAAAQA2RS1gAXUZAAABAQAAHQWqMvXQAAAAAAAv/2wAAAAgXNXw8f////53Js8BAAAAAXdwrLz////+AAAAAasvfjZpBGgPAAAAAAkDHscLxAAAAARc1fDxAAAAI3dwrLwAAAAjAAAAAQABveTHRpQsAAABAAAHBcQtOs4AAAAMHscLxAAAAARc1fDx/////oaH0L0AAAAFd3CsvP////4AAAABADZFLcfiofgAAAEBAAAdBaoy9dAAAAAAAC//bAAAACBc1fDx/////ncmzwEAAAABd3CsvP////4AAAABqy9+Nl1N2S4AAAAACQMexwvEAAAABFzV8PEAAAAjd3CsvAAAACMAAAABAAG95C8nwQsAAAEAAAcFxC06zgAAAAwexwvEAAAABFzV8PH////+hofQvQAAAAV3cKy8/////gAAAAEANkUtL8PO1wAAAQEAAB0FqjL10AAAAAAAL/9sAAAAIFzV8PH////+dybPAQAAAAF3cKy8/////gAAAAGrL342UZdKTQAAAAAJAx7HC8QAAAAEXNXw8QAAACN3cKy8AAAAIwAAAAEAAb3klwjt6gAAAQAABwXELTrOAAAADB7HC8QAAAAEXNXw8f////6Gh9C9AAAABXdwrLz////+AAAAAQA2RS2XpPu2AAABAQAAHQWqMvXQAAAAAAAv/2wAAAAgXNXw8f////53Js8BAAAAAXdwrLz////+AAAAAasvfjZF4LtsAAAAAAkDHscLxAAAAARc1fDxAAAAI3dwrLwAAAAjAAAAAQABveT+6hrJAAABAAAHBcQtOs4AAAAMHscLxAAAAARc1fDx/////oaH0L0AAAAFd3CsvP////4AAAABADZFLf+GKJUAAAEBAQAAHQVKbn2fAAAAD6oy9dAAAAABXNXw8f////6Gh9C9AAAAD3dwrLz////+AAAAAAAAAAAHCMQtOs4AAAAQXNXw8f////6wmFUu//8AACqMeIsAAAACwX8chAAAAAF3cKy8/////sCbLjb/////poXfuAAAAAIAAAABADZFLQAOoHoAAAEAAAcExC06zgAAABBc1fDx/////ndwrLz////+wJsuNv8AAAAAAAABADZFLQARPJoAAAEBAAAcCEpufZ8AAAAPqjL10AAAAAEDt5eEAAAADwAv/2wAAAAgXNXw8f////6Gh9C9AAAADwAADRsAAAB7d3CsvP////8AAAABqy9+NsKZwncAAAAACQQexwvEAAAAIFzV8PEAAAAUi24bdQAAAAR3cKy8AAAAFAAAAAEAAb3k+vWUJgAAAQAABwTELTrOAAAAElzV8PH////+d3CsvP////7Amy42/wAAAAAAAAEANkUtXFt2YAAAAQEAABwHSm59nwAAAA+qMvXQAAAAAQO3l4QAAAAPAC//bAAAACBc1fDx/////oaH0L0AAAAKd3CsvP////8AAAABqy9+NrbjM5YAAAAACQQexwvEAAAAIFzV8PEAAAAUi24bdQAAAAR3cKy8AAAAFAAAAAEAAb3k+vWUJgAAAQAABwTELTrOAAAAElzV8PH////+d3CsvP////7Amy42/wAAAAAAAAEANkUtxDyjPwAAAQEAABwHSm59nwAAAA+qMvXQAAAAAQO3l4QAAAAPAC//bAAAACBc1fDx/////oaH0L0AAAAKd3CsvP////8AAAABqy9+NqsspLUAAAAACQQexwvEAAAAIFzV8PEAAAAUi24bdQAAAAR3cKy8AAAAFAAAAAEAAb3k+vWUJgAAAQAABwTELTrOAAAAElzV8PH////+d3CsvP////7Amy42/wAAAAAAAAEANkUtLB3QHgAAAQEAAA0DBacvY//u7u6Gh9C9AAAAD3dwrLz/////AAJc1fDxPwAAAC9F0Ag/AAAAAAAAAAEBAAAAGJcI7eoAEiR7dG9wSXRlbVszXS5pY29ufV1N2S4AFCR7dG9wSXRlbVsyXS5hY3Rpb259/uoayQASJHt0b3BJdGVtWzRdLmljb259xDyjPwAPJHtuZXdzWzFdLnRleHR9LB3QHgAPJHtuZXdzWzJdLnRleHR9X2VnTQASJHt0b3BJdGVtWzBdLmljb259dLr28AAUJHt0b3BJdGVtWzBdLmFjdGlvbn3HRpQsABIke3RvcEl0ZW1bMV0uaWNvbn1pBGgPABQke3RvcEl0ZW1bMV0uYWN0aW9ufQARPJoABuimgemXuy8nwQsAEiR7dG9wSXRlbVsyXS5pY29ufUXgu2wAFCR7dG9wSXRlbVs0XS5hY3Rpb259wpnCdwARJHtuZXdzWzBdLmFjdGlvbn2XpPu2ABIke3RvcEl0ZW1bM10udGV4dH3/hiiVABIke3RvcEl0ZW1bNF0udGV4dH369ZQmAAtyaWdodF9hcnJvdy/DztcAEiR7dG9wSXRlbVsyXS50ZXh0fQAOoHoABueWq+aDhbbjM5YAESR7bmV3c1sxXS5hY3Rpb259YAF1GQASJHt0b3BJdGVtWzBdLnRleHR9qyyktQARJHtuZXdzWzJdLmFjdGlvbn3H4qH4ABIke3RvcEl0ZW1bMV0udGV4dH1Rl0pNABQke3RvcEl0ZW1bM10uYWN0aW9ufVxbdmAADyR7bmV3c1swXS50ZXh0fQAAAAA="
+    ], 
+    "data": {
+        "news": [
+            {
+                "action": {
+                    "url": "https://www.baidu.com"
+                }, 
+                "text": "31\u7701\u4efd\u6628\u65e5\u589e\u786e\u8bca5\u4f8b \u5747\u4e3a\u5883\u5916\u8f93\u5165"
+            }, 
+            {
+                "action": {
+                    "url": "https://www.163.com/"
+                }, 
+                "text": "\u5355\u9488\u63a5\u79cd\u65b0\u51a0\u75ab\u82d7\u4f55\u65f6\u80fd\u6253\uff1f\u7b54\u6848\u6765\u4e86"
+            }, 
+            {
+                "action": {
+                    "url": "https://www.sina.com.cn/"
+                }, 
+                "text": "\u5168\u7403\u65e5\u589e\u8d8537\u4e07\u4f8b \u7f8e\u56fd\u65e5\u589e\u8fd14\u4e07\u4f8b"
+            }
+        ], 
+        "topItem": [
+            {
+                "action": "\u6d77\u5916\u75ab\u60c5", 
+                "text": "\u6d77\u5916\u75ab\u60c5", 
+                "icon": "https://cms-bucket.ws.126.net/2021/0115/fd19f3eep00qmz9680007c0002x002xc.png"
+            }, 
+            {
+                "action": "\u6700\u65b0\u8fdb\u5c55", 
+                "text": "\u6700\u65b0\u8fdb\u5c55", 
+                "icon": "https://cms-bucket.ws.126.net/2021/0115/6a723af0p00qmz9h30002c0002x002xc.png"
+            }, 
+            {
+                "action": "\u5317\u4eac\u75ab\u60c5", 
+                "text": "\u5317\u4eac\u75ab\u60c5", 
+                "icon": "https://cms-bucket.ws.126.net/2020/0212/22458587p00q5klyb0002c0002x002xc.png"
+            }, 
+            {
+                "action": "\u65b0\u51a0\u75ab\u82d7", 
+                "text": "\u65b0\u51a0\u75ab\u82d7", 
+                "icon": "https://cms-bucket.ws.126.net/2020/0428/9eecd3d7p00q9hjzi0007c0002x002xc.png"
+            }, 
+            {
+                "action": "\u6838\u9178\u68c0\u6d4b", 
+                "text": "\u6838\u9178\u68c0\u6d4b", 
+                "icon": "https://cms-bucket.ws.126.net/2021/0115/8be454bep00qmz9fi0002c0002x002xc.png"
+            }
+        ]
+    }
+}
