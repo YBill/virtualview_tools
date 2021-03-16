@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<NVHLayout
+    background="#00ffff"
+    layoutWidth="750rp"
+    layoutHeight="wrap_content"
+    orientation="H">
+
+    <NFrameLayout
+        layoutMarginTop="10"
+        layoutMarginLeft="30rp"
+        layoutMarginRight="30rp"
+        layoutMarginBottom="30rp"
+        layoutWidth="match_parent"
+        layoutHeight="wrap_content" >
+
+        <NText
+            layoutWidth="470rp"
+            layoutHeight="wrap_content"
+            layoutGravity="left"
+            textSize="18"
+            textColor="#333333"
+            maxLines="2"
+            ellipsize="end"
+            layoutMarginRight="20rp"
+            text="${text}"/>
+
+        <NImage
+            layoutWidth="200rp"
+            layoutHeight="wrap_content"
+            layoutGravity="right"
+            autoDimDirection="X"
+            autoDimX="4"
+            autoDimY="3"
+            scaleType="center_crop"
+            src="${imageUrl}" />
+    </NFrameLayout>
+</NVHLayout>
